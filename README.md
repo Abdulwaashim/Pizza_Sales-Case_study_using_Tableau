@@ -22,7 +22,8 @@ The analysis aimed to answer the following key questions:
   - Added `Time` (from Orders) to columns and `Quantity` (from Order Details) to rows, revealing **12 PM to 1 PM as the peak hour**.
 
 **Analysis Image:**
-![Daily Customer Count and Peak Hours](images/daily_customer_count.png)
+![Daily Customer Count and Peak Hours](https://github.com/Abdulwaashim/Pizza_Sales-Case_study_using_Tableau/blob/main/Images/Customers%20per%20day.png)
+![](https://github.com/Abdulwaashim/Pizza_Sales-Case_study_using_Tableau/blob/main/Images/Peak%20hours.png)
 
 ### **3.2 Typical Order Size and Bestsellers**
 - **Typical Order Size:**
@@ -34,7 +35,7 @@ The analysis aimed to answer the following key questions:
   - Filtered for top 10 bestselling pizzas based on descending order of sales.
 
 **Analysis Image:**
-![Typical Order Size and Bestsellers](images/typical_order_size.png)
+![Typical Order Size and Bestsellers](https://github.com/Abdulwaashim/Pizza_Sales-Case_study_using_Tableau/blob/main/Images/Pizza's%20per%20order.png) ![](https://github.com/Abdulwaashim/Pizza_Sales-Case_study_using_Tableau/blob/main/Images/Best%20Sellers.png)
 
 ### **3.3 Total Sales and Seasonality**
 - **Total Sales:**
@@ -46,7 +47,7 @@ The analysis aimed to answer the following key questions:
   - Identified seasonal trends via a line graph.
 
 **Analysis Image:**
-![Total Sales and Seasonality](images/total_sales_seasonality.png)
+![Total Sales and Seasonality](https://github.com/Abdulwaashim/Pizza_Sales-Case_study_using_Tableau/blob/main/Images/Total%20Sales%20by%20months.png)
 
 ### **3.4 Menu Optimization and Promotions**
 - **Category Performance:**
@@ -67,7 +68,7 @@ The analysis aimed to answer the following key questions:
   - Found most customers order between **1 and 4 pizzas**, suggesting promotions targeted at these groups.
 
 **Analysis Image:**
-![Menu Optimization and Promotions](images/menu_optimization.png)
+![Menu Optimization and Promotions](https://github.com/Abdulwaashim/Pizza_Sales-Case_study_using_Tableau/blob/main/Images/Top%20Customers.png) ![](https://github.com/Abdulwaashim/Pizza_Sales-Case_study_using_Tableau/blob/main/Images/Size%20Based%20Analysis.png)
 
 ---
 
@@ -79,7 +80,7 @@ The Tableau dashboard includes:
 - **Menu and Promotion Insights:** Identifying low-performing items and promotion opportunities.
 
 **Dashboard Image:**
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](https://github.com/Abdulwaashim/Pizza_Sales-Case_study_using_Tableau/blob/main/Dahsboard(img).png)
 
 ---
 
@@ -93,7 +94,7 @@ By implementing these strategies, the pizza store can enhance customer satisfact
 
 ---
 
-**Author:** [Your Name]  
-**Project Files:** [GitHub Repository Link]  
+**Author:** Abdul waashim  
+**Project Files:** [https://github.com/Abdulwaashim/Pizza_Sales-Case_study_using_Tableau]  
 **Tool Used:** Tableau
 
